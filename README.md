@@ -16,7 +16,8 @@ Nebua is an innovative platform offering various functionalities for agile and s
 
 ## 🌐 Important Links
 
-- **Official Website:** [nebuacloud.com](https://store.nebuacloud.com)
+- **Official Website:** [nebuacloud.com](https://nebuacloud.com)
+- **VPS, Domain and Email service:** [store.nebuacloud.com](https://store.nebuacloud.com)
 - **Nebua LinkedIn:** [linkedin.com/company/nebuacloud](https://www.linkedin.com/company/nebuacloud)
 - **Contact:** [commercial@nebuacloud.com](mailto:commercial@nebuacloud.com) | +238 974 83 62
 - **Stand Location (Web Summit Lisbon 2024):** STAND 2024: Pavilhão 03, Nr. E306 MEO Arena, no Rossio dos Olivais, Lote 2.13.01A, 1990-231, Lisboa
