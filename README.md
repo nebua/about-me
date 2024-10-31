@@ -1,7 +1,3 @@
-To convert this information into a GitHub Wiki format, here's how it would look:
-
----
-
 # Profile and Contacts - NEBUACLOUD
 
 ---
