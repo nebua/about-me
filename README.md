@@ -46,7 +46,3 @@ Nebua is an innovative platform offering various functionalities for agile and s
 
 - [LinkedIn](https://linkedin.com/company/nebuacloud)
 - [Facebook](https://www.facebook.com/nebuacloud)
-
----
-
-This format is suitable for a GitHub Wiki page, where headings and links are presented cleanly, and each section is clearly delineated for easy navigation. Let me know if there’s anything more you’d like to add!
