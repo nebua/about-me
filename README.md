@@ -33,10 +33,10 @@ Nebua is an innovative platform offering various functionalities for agile and s
 ## 📞 Direct Contacts (Manager)
 
 - **Nebua:**
-    - **Email:** angelocorreia27@gmail.com
-    - **Phone:** +238 974 83 62
-    - **LinkedIn:** [linkedin.com/in/angelocorreia27/](https://www.linkedin.com/in/angelocorreia27/)
-
+    - **Email:** angelocorreia27@gmail.com / hermes.mau@gmail.com
+    - **Phone:** +238 974 83 62 / (+238) 9 85 47 00
+    - **LinkedIn:** [linkedin.com/in/angelocorreia27/](https://www.linkedin.com/in/angelocorreia27/) /
+                    [linkedin.com/in/hermes-mauricio-02949934/](https://www.linkedin.com/in/hermes-mauricio-02949934/)
 ---
 
 ## 🔗 Follow Us on Social Media
