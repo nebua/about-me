@@ -10,7 +10,7 @@ Nebua is an innovative platform offering various functionalities for agile and s
 
 - One-click installation of open-source software
 - Services backup and restoration
-- VPS server management and technical support for rapid development in multiple languages
+- VPS server management and technical support for rapid development
 
 ---
 
@@ -24,9 +24,9 @@ Nebua is an innovative platform offering various functionalities for agile and s
 
 ---
 
-## 📝 Important Documents
+## 📝 Pitch Deck
 
-- [Nebua Presentation](https://www.canva.com/design/DAGDRXzFjqM/VnYcpXQ4ugJ2SxnpKSCXiQ/view?utm_content=DAGDRXzFjqM&utm_campaign=designshare&utm_medium=link&utm_source=editor#1) – Learn more about Nebua's vision and solutions for businesses and developers.
+- [Nebua Pitch Deck](https://www.canva.com/design/DAGDRXzFjqM/VnYcpXQ4ugJ2SxnpKSCXiQ/view?utm_content=DAGDRXzFjqM&utm_campaign=designshare&utm_medium=link&utm_source=editor#1) – Learn more about Nebua's vision and solutions for businesses and developers.
 
 ---
 
